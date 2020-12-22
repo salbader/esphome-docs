@@ -159,7 +159,7 @@ Configuration variables:
 
 .. _esp32_ble_tracker-on_ble_service_data_advertise:
 
-``on_ble_on_ble_service_data_advertise``
+``on_ble_service_data_advertise``
 ****************************************
 
 This automation will be triggered when a Bluetooth advertising with service data is received. A
